@@ -6,4 +6,4 @@
 # 下载
 [meme.apk](https://github.com/fesfa/memeApp/blob/main/meme.apk)
 # 联系我们
-更多请联系[lixiaorui@mail.ynu.edu.cn]()咨询有关该APP
+更多请联系lixiaorui@mail.ynu.edu.cn咨询有关该APP
